@@ -2,30 +2,14 @@
 
 ## Index
 
-* [Shreyans](#Shreyans)
-* [Shreyans Jain](#Shreyans-Jain)
-* [Yogesh](#Yogesh)
+- [Animations](#Animations)
+- [Navigation](#Navigation)
+- [Widgets](#Widgets)
 
-**[⬆ Back to Index](#index)**
-### Yogesh 
-| Name | Link | Github | Points | Tags |
-|------|------|--------|--------|------|
-| Yogesh | [Link](http://github.com) | [Repo](http://github.com) | 123 / 130 | Tags |
-| Yogesh | [Link](http://github.com) | [Repo](http://github.com) | 123 / 130 | Tags |
-| Yogesh | [Link](http://github.com) | [Repo](http://github.com) | 123 / 130 | Tags |
+- [Navigation](#Navigation)
 
-**[⬆ Back to Index](#index)**
-### Shreyans 
-| Name | Link | Github | Points | Tags |
-|------|------|--------|--------|------|
-| Shreyans | [Link](http://github.com) | [Repo](http://github.com) | 123 / 130 | Tags |
-| Shreyans | [Link](http://github.com) | [Repo](http://github.com) | 123 / 130 | Tags |
-| Shreyans | [Link](http://github.com) | [Repo](http://github.com) | 123 / 130 | Tags |
+### Animations
 
-**[⬆ Back to Index](#index)**
-### Shreyans Jain
-| Name | Link | Github | Points | Tags |
-|------|------|--------|--------|------|
-| Shreyans | [Link](http://github.com) | [Repo](http://github.com) | 123 / 130 | Tags |
-| Shreyans | [Link](http://github.com) | [Repo](http://github.com) | 123 / 130 | Tags |
-| Shreyans | [Link](http://github.com) | [Repo](http://github.com) | 123 / 130 | Tags |
+| Name   | Description    | Link                      | Platform                    | Points    | Other Categories |
+| ------ | -------------- | ------------------------- | ------------------------- | --------- | ---- |
+| Animations | A collection of useful packages maintained by the Flutter team  | [animations](https://pub.dev/packages/animations) |  ```Android``` ```iOS``` ```Linux``` ```macOS``` ```web``` ```Windows``` | 130 / 130 |  |
