@@ -2,20 +2,20 @@
 
 ## Index
 
-- [Animations](#Animations)
-- [Bank Cards](#Bank-Cards)
-- [Carousel](#Carousel)
-- [Chat](#Chat)
-- [Components](#Components)
-- [Drawer](#Drawer)
-- [Icons](#Icons)
-- [Introduction Screen](#Introduction-screens)
-- [Map](#Map)
-- [Navigation](#Navigation)
-- [Responsive](#Responsive)
-- [Story](#Story)
-- [Slider](#Slider)
-- [Widgets](#Widgets)
+- [Animations](#animations)
+- [Bank Cards](#bank-cards)
+- [Carousel](#carousel)
+- [Chat](#chat)
+- [Components](#components)
+- [Drawer](#drawer)
+- [Icons](#icons)
+- [Introduction Screen](#introduction-screens)
+- [Map](#map)
+- [Navigation](#navigation)
+- [Responsive](#responsive)
+- [Story](#story)
+- [Slider](#slider)
+- [Widgets](#widgets)
 
 ### Animations
 
