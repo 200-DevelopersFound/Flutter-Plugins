@@ -9,7 +9,7 @@
 - [Components](#Components)
 - [Drawer](#Drawer)
 - [Icons](#Icons)
-- [Introduction Screen](#Introduction-screen)
+- [Introduction Screen](#Introduction-screens)
 - [Map](#Map)
 - [Navigation](#Navigation)
 - [Responsive](#Responsive)
