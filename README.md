@@ -22,7 +22,7 @@
 | Name   | Description    | Link                      | Platform                    | Points    | Other Categories |
 | ------ | -------------- | ------------------------- | ------------------------- | --------- | ---- |
 | Animations | A collection of useful packages maintained by the Flutter team  | [animations](https://pub.dev/packages/animations) |  ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WEB``` ```WINDOWS``` | 130 / 130 |  |
-|Flip Card|A component that provides flip card animation. It could be used for hide and show details of a product.| [animations](https://pub.dev/packages/flip_card) | ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WEB``` ```WINDOWS``` | 130 / 130 ||
+|Flip Card|A component that provides flip card animation. It could be used for hide and show details of a product.| [flipcard](https://pub.dev/packages/flip_card) | ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WEB``` ```WINDOWS``` | 130 / 130 |Cards|
 
 **[⬆ Back to Index](#index)**
 
@@ -30,9 +30,9 @@
 
 | Name   | Description    | Link                      | Platform                    | Points    | Other Categories |
 | ------ | -------------- | ------------------------- | ------------------------- | --------- | ---- |
-| Credit Card Slider | A credit card slider with ability to add custom cards using the CreditCard widget. Credit card slider can also be customised | [Credit Card Slider](https://pub.dev/packages/credit_card_slider) |  ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WEB``` ```WINDOWS``` | 100 / 130 | carousel |
-| Flutter Credit Card | A Credit Card widget package, support entering card details, card flip animation. | [Flutter Credit Card](https://pub.dev/packages/flutter_credit_card) | ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WEB``` ```WINDOWS``` | 120/130 ||
-| Infinite Cards | An infinite card switching UI for Flutter, support custom animation | [Infinite Cards](https://pub.dev/packages/infinite_cards) | ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WEB``` ```WINDOWS``` | 80/130 | |
+| Credit Card Slider | A credit card slider with ability to add custom cards using the CreditCard widget. Credit card slider can also be customised | [Credit Card Slider](https://pub.dev/packages/credit_card_slider) |  ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WEB``` ```WINDOWS``` | 100 / 130 | Cards, Carousel |
+| Flutter Credit Card | A Credit Card widget package, support entering card details, card flip animation. | [Flutter Credit Card](https://pub.dev/packages/flutter_credit_card) | ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WEB``` ```WINDOWS``` | 120/130 |Cards, Forms|
+| Infinite Cards | An infinite card switching UI for Flutter, support custom animation | [Infinite Cards](https://pub.dev/packages/infinite_cards) | ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WEB``` ```WINDOWS``` | 80/130 | Cards, Carousel|
 
 **[⬆ Back to Index](#index)**
 
@@ -41,7 +41,7 @@
 | Name   | Description    | Link                      | Platform                    | Points    | Other Categories |
 | ------ | -------------- | ------------------------- | ------------------------- | --------- | ---- |
 | Scaled List | A Horizontal List view With Lots of modification including a scaled current item and curved custom painting | [scaled_list](https://pub.dev/packages/scaled_list) |  ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WEB``` ```WINDOWS``` | 110 / 130 |  |
-| Vertical Card Pager | Use dynamic and beautiful card view pagers to help you create great apps | [vertical_card_pager](https://pub.dev/packages/vertical_card_pager) |  ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WEB``` ```WINDOWS``` | 120 / 130 |  |
+| Vertical Card Pager | Use dynamic and beautiful card view pagers to help you create great apps | [vertical_card_pager](https://pub.dev/packages/vertical_card_pager) |  ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WEB``` ```WINDOWS``` | 120 / 130 |   |
 
 **[⬆ Back to Index](#index)**
 
@@ -50,7 +50,7 @@
 | Name   | Description    | Link                      | Platform                    | Points    | Other Categories |
 | ------ | -------------- | ------------------------- | ------------------------- | --------- | ---- |
 | Dash Chat | The most complete Chat UI for flutter inspired by react-native-gifted-chat | [dash_chat](https://pub.dev/packages/dash_chat) |  ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WEB``` ```WINDOWS``` | 130 / 130 |  |
-| Flutter Chat UI | Actively maintained, community-driven chat UI implementation with an optional Firebase BaaS | [flutter_chat_ui](https://pub.dev/packages/flutter_chat_ui) |  ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WEB``` ```WINDOWS``` | 130 / 130 |  |
+| Flutter Chat UI | Actively maintained, community-driven chat UI implementation with an optional Firebase BaaS | [flutter_chat_ui](https://pub.dev/packages/flutter_chat_ui) |  ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WEB``` ```WINDOWS``` | 130 / 130 | Firebase |
 
 **[⬆ Back to Index](#index)**
 
@@ -67,9 +67,9 @@
 
 | Name   | Description    | Link                      | Platform                    | Points    | Other Categories |
 | ------ | -------------- | ------------------------- | ------------------------- | --------- | ---- |
-| Flutter Zoom Drawer | A Flutter package with custom implementation of the Side Menu (Drawer) | [Flutter Zoom Drawer](https://pub.dev/packages/flutter_zoom_drawer) |  ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WEB``` ```WINDOWS``` | 130 / 130 | |
-| Curved Drawer | A Flutter widget that provides an easy to use animated drawer. | [Curved Drawer](https://pub.dev/packages/curved_drawer) | ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WEB``` ```WINDOWS``` | 100/130 ||
-| Liquid Shrink Side Menu | A Side Menu plugin for flutter and compatible with liquid ui. | [Liquid Shrink Side Menu](https://pub.dev/packages/shrink_sidemenu) | ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WEB``` ```WINDOWS``` | 130/130 | |
+| Flutter Zoom Drawer | A Flutter package with custom implementation of the Side Menu (Drawer) | [Flutter Zoom Drawer](https://pub.dev/packages/flutter_zoom_drawer) |  ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WEB``` ```WINDOWS``` | 130 / 130 | Animation, Side Menu |
+| Curved Drawer | A Flutter widget that provides an easy to use animated drawer. | [Curved Drawer](https://pub.dev/packages/curved_drawer) | ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WEB``` ```WINDOWS``` | 100/130 | Animation, Liquid Theme |
+| Liquid Shrink Side Menu | A Side Menu plugin for flutter and compatible with liquid ui. | [Liquid Shrink Side Menu](https://pub.dev/packages/shrink_sidemenu) | ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WEB``` ```WINDOWS``` | 130/130 | Animation, Liquid Theme,  |
 
 **[⬆ Back to Index](#index)**
 
@@ -85,7 +85,7 @@
 
 | Name   | Description    | Link                      | Platform                    | Points    | Other Categories |
 | ------ | -------------- | ------------------------- | ------------------------- | --------- | ---- |
-| Introduction Screen | Add easily to your app an introduction screen to provide informations to new users | [introduction_screen](https://pub.dev/packages/introduction_screen) |  ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WEB``` ```WINDOWS``` | 120 / 130 |  |
+| Introduction Screen | Add easily to your app an introduction screen to provide informations to new users | [introduction_screen](https://pub.dev/packages/introduction_screen) |  ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WEB``` ```WINDOWS``` | 120 / 130 | Liquid Animation |
 
 **[⬆ Back to Index](#index)**
 
@@ -93,7 +93,7 @@
 
 | Name   | Description    | Link                      | Platform                    | Points    | Other Categories |
 | ------ | -------------- | ------------------------- | ------------------------- | --------- | ---- |
-| Flutter Map | A Dart implementation of Leaflet to provide a Map widget for Flutter apps | [Flutter Map](https://pub.dev/packages/flutter_map) |  ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WINDOWS``` | 110 / 130 | |
+| Flutter Map | A Dart implementation of Leaflet to provide a Map widget for Flutter apps | [Flutter Map](https://pub.dev/packages/flutter_map) |  ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WINDOWS``` | 110 / 130 | Leaflet |
 | Map | Map widget for Flutter written in 100% Dart. Supports Android, iOS, Web and Desktop. | [Map](https://pub.dev/packages/map) | ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WINDOWS``` | 130/130 ||
 
 **[⬆ Back to Index](#index)**
@@ -102,7 +102,7 @@
 
 | Name   | Description    | Link                      | Platform                    | Points    |  Other Categories |
 | ------ | -------------- | ------------------------- | ------------------------- | --------- | ---- |
-| Curved Navigation Bar | A Flutter package for easy implementation of curved navigation bar. | [curved_navigation_bar](https://pub.dev/packages/curved_navigation_bar) | ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WEB``` ```WINDOWS``` | 130 / 130 | Stunning Animating Curved Shape Navigation Bar, Adjustable color, background color, animation curve, animation duration |
+| Curved Navigation Bar | A Flutter package for easy implementation of curved navigation bar. | [curved_navigation_bar](https://pub.dev/packages/curved_navigation_bar) | ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WEB``` ```WINDOWS``` | 130 / 130 | Liquid Animations, Bottom Navigation |
 
 **[⬆ Back to Index](#index)**
 
@@ -119,7 +119,7 @@
 
 | Name   | Description    | Link                      | Platform                    | Points    | Other Categories |
 | ------ | -------------- | ------------------------- | ------------------------- | --------- | ---- |
-| Flutter Sliders |A Flutter Sliders library for creating highly customizable and UI-rich slider, range slider, and range selector widgets for filtering purposes. | [Flutter Map](https://pub.dev/packages/syncfusion_flutter_sliders) |  ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WINDOWS``` | 130 / 130 | |
+| Sync Fusion Flutter Sliders |A Flutter Sliders library for creating highly customizable and UI-rich slider, range slider, and range selector widgets for filtering purposes. | [syncfusion_flutter_sliders](https://pub.dev/packages/syncfusion_flutter_sliders) |  ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WINDOWS``` | 130 / 130 | Charts |
 
 **[⬆ Back to Index](#index)**
 
@@ -127,7 +127,7 @@
 
 | Name   | Description    | Link                      | Platform                    | Points    | Other Categories |
 | ------ | -------------- | ------------------------- | ------------------------- | --------- | ---- |
-| Story | Instagram stories like UI with rich animations and customizability. | [Story](https://pub.dev/packages/story) |  ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WINDOWS``` | 130 / 130 | |
+| Story | Instagram stories like UI with rich animations and customizability. | [Story](https://pub.dev/packages/story) |  ```ANDROID``` ```IOS``` ```LINUX``` ```MACOS``` ```WINDOWS``` | 130 / 130 | UI/UX |
 
 **[⬆ Back to Index](#index)**
 
