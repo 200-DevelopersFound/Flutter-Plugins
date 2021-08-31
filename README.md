@@ -7,7 +7,7 @@
 - [Carousel](#carousel)
 - [Chat](#chat)
 - [Components](#components)
-- [Drawer](#drawer)
+- [Drawer](#drawers)
 - [Icons](#icons)
 - [Introduction Screen](#introduction-screens)
 - [Map](#map)
